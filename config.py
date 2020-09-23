@@ -8,3 +8,4 @@ USE_PROXY = False
 HEADLESS = False
 USER_AGENT_ROTATE = False
 START_URL = "https://google.com"
+API_KEY = ''
