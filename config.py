@@ -1,0 +1,10 @@
+MIN_RAND = 0.64
+MAX_RAND = 1.27
+LONG_MIN_RAND = 4.78
+LONG_MAX_RAND = 11.1
+executable_path = './driver/geckodriver_macos'
+DISABLE_IMAGE_LOAD = False
+USE_PROXY = False
+HEADLESS = False
+USER_AGENT_ROTATE = False
+START_URL = "https://google.com"
