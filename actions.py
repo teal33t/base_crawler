@@ -40,3 +40,6 @@ def resolve_hcaptcha(SITE_KEY):
         print("g-response: " + g_response)
     else:
         print("task finished with error " + solver.error_code)
+
+def get_proxy():
+    pass
